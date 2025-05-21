@@ -1,16 +1,33 @@
-## Hi there 👋
+```
+                                                    /\             /\
+                                                   |`\\_,--="=--,_//`|
+                                                   \ ."  :'. .':  ". /
+                                                  ==)  _ :  '  : _  (==
+                                                    |>/O\   _   /O\<|
+                                                    | \-"~` _ `~"-/ |   
+                                                   >|`===. \_/ .===`|<
+                                             .-"-.   \==='  |  '===/   .-"-.
+                                        .---{'. '`}---\,  .-'-.  ,/---{.'. '}---.
+                                         )  `"---"`     `~-===-~`     `"---"`  (
+                                        (            SALIMLI AYZEK            )
+                                         )                                     (
+                                        '---------------------------------------'
+                                        
+                                     _______________________________________________
+                                    /\                                              \
+                                    \_| Welcome, dear GitHub explorer!              |
+                                      |  You've reached a person who thinks Haskell |
+                                      |  is the best programming language!          |
+                                      |  Don't argue with that!!!                   |
+                                      |   __________________________________________|_
+                                       \_/____________________________________________/
 
-<!--
-**MathematicLove/MathematicLove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                   _   _      _ _                                _     _ _ 
+                                  | | | | ___| | | ___       __      _____  _ __| | __| | |
+                                  | |_| |/ _ \ | |/ _ \      \ \ /\ / / _ \| '__| |/ _` | |
+                                  |  _  |  __/ | | (_) |  _   \ V  V / (_) | |  | | (_| |_|
+                                  |_| |_|\___|_|_|\___/  ( )   \_/\_/ \___/|_|  |_|\__,_(_)
+                                                         |/                                
 
-Here are some ideas to get you started:
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
