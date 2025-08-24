@@ -1,12 +1,12 @@
 ```
-                                     _______________________________________________
-                                    /\                                              \
-                                    \_| Welcome, dear GitHub explorer!              |
-                                      |  You've reached a person who thinks Haskell |
-                                      |  is the best programming language!          |
-                                      |  Don't argue with that!!!                   |
-                                      |   __________________________________________|_
-                                       \_/____________________________________________/
+ _______________________________________________
+/\                                              \
+\_| Welcome, dear GitHub explorer!              |
+  |  You've reached a person who thinks Haskell |
+  |  is the best programming language!          |
+  |  Don't argue with that!!!                   |
+  |   __________________________________________|_
+  \_/____________________________________________/
 ```
 # About me 👨🏻‍💻:
   - Education 📚: 
