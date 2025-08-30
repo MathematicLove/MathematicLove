@@ -14,7 +14,7 @@
     - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies 
   - Experience 📈:
     - 1 year experience with LLM and other AI models (like OpenCV) + backend in TheBloomsBridge
-    - More than 80 lab's on Java, Haskell, C++ solved
+    - More than 80 lab's and pet-projects  on Java, Haskell, C++ solved
   - Interests 🤓:
     - Math in CS
     - Programming
