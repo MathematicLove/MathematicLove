@@ -54,7 +54,8 @@
 ## DevOps and deploy:
   - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> 
   - k8s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> 
-  - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/> 
+  - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/>
+  - Render <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/>
 ## Math 🧮:
   - Discrete math.
   - Theory of probability
