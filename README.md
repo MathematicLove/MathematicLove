@@ -55,7 +55,7 @@
   - NoSQL
     - MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/>
    
-## Math 🧮:
+## Math:
   - Discrete math.
   - Theory of probability
   - Math. statistics
