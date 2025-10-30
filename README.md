@@ -31,17 +31,18 @@
 - Pure functional
   - Haskell <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> 
 
-## Data Science and Machine Learning Ecosystem (Python)
- - Core Scientific Computing
-   - NumPy
- - Data Analysis & Manipulation
-   - Pandas
- - Machine Learning Algorithms
-   - Scikit-learn
- - Deep Learning Frameworks
-   - Tensorflow
- - Data Visualization
-   - Matplotlib
+## Data Science and Machine Learning Libraries (Python) 🤖
+
+- **Data Manipulation**
+  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
+- **Scientific Computing**
+  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+- **Machine Learning**
+  - ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+- **Deep Learning**
+  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+- **Data Visualization**
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
 
 ## Frameworks: 
  - Spring framework + spring boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/>
