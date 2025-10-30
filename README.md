@@ -31,7 +31,7 @@
 - Pure functional
   - Haskell <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> 
 
-## Data Science and Machine Learning Libraries (Python) 🤖
+## Data Science and Machine Learning Libraries (Python) 
 
 - **Data Manipulation**
   - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
