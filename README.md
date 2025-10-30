@@ -55,14 +55,8 @@
     - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> 
     - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> 
   - NoSQL
-    - MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> 
-## Message brokers:
-  - RabbitMQ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> 
-## DevOps and hosting:
-  - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> 
-  - k8s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> 
-  - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/>
-  - Render <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/>
+    - MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/>
+   
 ## Math 🧮:
   - Discrete math.
   - Theory of probability
@@ -70,5 +64,14 @@
   - Linear algebra
   - Quantum Computing
   - Optimization Methods
+
+## Message brokers:
+  - RabbitMQ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> 
+## DevOps and hosting:
+  - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> 
+  - k8s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> 
+  - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/>
+  - Render <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/>
+
 
   
