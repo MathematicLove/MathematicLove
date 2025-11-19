@@ -10,16 +10,17 @@
 ```
 # About me 👨🏻‍💻:
   - Education 📚: 
-    - School 🏫: School №53, with a Mathematics bias  
-    - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies 
+    - School 🏫: School №53, with a Mathematics bias;  
+    - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
   - Experience 📈:
-    - 1 year experience with LLM and other AI models (like OpenCV) + backend in TheBloomsBridge
-    - More than 80 lab's and pet-projects on Java, Python, Haskell and C++ solved
+    - 1.2 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development.
+    - 2 months of hands-on delta robot design practice in MuJoCo environments;
+    - More than 80 lab's and pet-projects on Java, Python, Haskell and C++ solved.
   - Interests 🤓:
-    - Math in CS
-    - Programming
-    - Philosophy
-   - i love Haskell btw
+    - Math in CS;
+    - Programming;
+    - Philosophy;
+   - i love Haskell btw.
 # Knowledge 🧠
 ## Programming languages: 
 - Object-Oriented
@@ -43,7 +44,8 @@
   - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 - **Data Visualization**
   - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
-
+## Quantum computing:
+  - ![Cirq](https://img.shields.io/badge/cirq-%23150458.svg?style=for-the-badge&logo=cirq&logoColor=white)  
 ## Frameworks: 
  - Spring framework + spring boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/>
  - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20"/>
@@ -60,12 +62,15 @@
   - Theory of probability
   - Math. statistics
   - Linear algebra
-  - Quantum Computing
-  - Optimization Methods
+  - Quantum computing
+  - Optimization methods
+  - Graph theory
+  - Category theory (base)
+  - Mathematical analysis
 
 ## Message brokers:
   - RabbitMQ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> 
-## DevOps and hosting:
+## Base of DevOps and hosting:
   - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> 
   - k8s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/>
   - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/>
