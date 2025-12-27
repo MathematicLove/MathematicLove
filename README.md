@@ -18,7 +18,7 @@
     - More than 120 lab's and pet-projects on Java, Python, Haskell and C++ solved.
   - Interests 🤓:
     - Math in CS;
-    - Music: (Neue Deutsche Härte);
+    - Music (Neue Deutsche Härte);
     - Philosophy;
     - Programming.
    - **I LOVE HASKELL BTW!**
@@ -26,7 +26,7 @@
 # Knowledge 🧠
 ## Programming languages: 
 - Multi
-  - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/>
+  - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> 
   - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
   
 - Object-Oriented
@@ -39,9 +39,10 @@
 - **Data Manipulation**
   - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
 - **Data Visualization**
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)  
+  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+  - ![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 - **Deep Learning**
-  - ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+  - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 - **Machine Learning**
   - ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
 - **Scientific Computing**
