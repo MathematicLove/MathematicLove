@@ -8,7 +8,8 @@
   |   __________________________________________|_
   \_/____________________________________________/
 ```
-# About me 👨🏻‍💻:
+<h1 align="center">About me</h1>
+
   - Education 📚:
     - School 🏫: School №53, with a mathematics bias; 
     - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
@@ -23,7 +24,8 @@
     - Programming.
    - **I LOVE HASKELL BTW!**
 
-# Knowledge 🧠
+<h1 align="center">Knowledge</h1>
+
 ## Programming languages: 
 - Multi
   - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> 
@@ -84,9 +86,17 @@
 
 ## Base of CI/CD:
   - Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/>
-  
-<h2 align="center">How to read my repositories</h2>
 
+<h1 align="center">Activity</h1>
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=MathematicLove&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=300" 
+    alt="GitHub Streak Stats"
+    onerror="this.src='https://via.placeholder.com/450x150/0d1117/ffffff?text=Loading+Statistics...';" 
+  />
+</p>
+
+<h2 align="center">How to read my repositories</h2>
 
 | Type | Style | Examples |
 |------|-------|----------|
@@ -95,3 +105,4 @@
 | Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
 | Important images | UPPERCASE | `DFA.png` |
 | .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models` |
+
