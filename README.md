@@ -84,3 +84,14 @@
 
 ## Base of CI/CD:
   - Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/>
+  
+<h2 align="center">How to read</h2>
+
+
+| Type | Style | Examples |
+|------|-------|----------|
+| Repositories, directories, .pdf files | kebab-case | `genetic-algorithms`, `report-lab-1.pdf` |
+| Java application directories | lowercase | `projects/encryptit` |
+| Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
+| Important images | UPPERCASE | `DFA.png` |
+| .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models` |
