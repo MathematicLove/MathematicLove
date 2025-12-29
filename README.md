@@ -85,7 +85,7 @@
 ## Base of CI/CD:
   - Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/>
   
-<h2 align="center">How to read</h2>
+<h2 align="center">How to read my repositories</h2>
 
 
 | Type | Style | Examples |
