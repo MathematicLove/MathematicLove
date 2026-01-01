@@ -95,7 +95,7 @@
   />
 </p>
 
-<h2 align="center">How to read my repositories</h2>
+<h2 align="center">Styles</h2>
 
 | Type | Style | Examples |
 |------|-------|----------|
