@@ -90,9 +90,8 @@
 <h1 align="center">Activity</h1>
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=MathematicLove&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D&cache_seconds=300" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MathematicLove&theme=radical&hide_border=true" 
     alt="GitHub Streak Stats"
-    onerror="this.src='https://via.placeholder.com/450x150/0d1117/ffffff?text=Loading+Statistics...';" 
   />
 </p>
 
