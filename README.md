@@ -92,7 +92,7 @@
 | Type | Style | Examples |
 |------|-------|----------|
 | Repositories, directories, .pdf files | kebab-case | `genetic-algorithms`, `report-lab-1.pdf` |
-| Java application directories | lowercase | `projects/encryptit` |
+| Java application directories, reports (in root directory) | lowercase | `projects/encryptit`, `report.pdf` |
 | Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
 | Important images | UPPERCASE | `DFA.png` |
 | .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models` |
