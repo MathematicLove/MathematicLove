@@ -87,14 +87,6 @@
 ## Base of CI/CD:
   - Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/>
 
-<h1 align="center">Activity</h1>
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MathematicLove&theme=radical&hide_border=true" 
-    alt="GitHub Streak Stats"
-  />
-</p>
-
 <h2 align="center">Styles</h2>
 
 | Type | Style | Examples |
