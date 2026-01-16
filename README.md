@@ -31,6 +31,7 @@
 
 - [SPbSTU](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [EncryptIT](https://github.com/MathematicLove/encrypt-it)
+- [QuotesWebApp](https://github.com/MathematicLove/quotes-web-app)
 - [AyzeksSoud](https://github.com/MathematicLove/ayzeks-sound/tree/main)
 - [DemographicAnalysis](https://github.com/MathematicLove/demographic-regression-ru-jp)
 - [TripPlannerBot](https://github.com/MathematicLove/trip-planner-bot-spring)
