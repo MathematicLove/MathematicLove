@@ -50,7 +50,7 @@
 | | Functional | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> Haskell |
 | **Data Science & ML (Python)** | Data Manipulation | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
 | | Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=seaborn&logoColor=white) |
-| | Deep Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| | Deep Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![YOLO](https://img.shields.io/badge/YOLO-%2300FF00.svg?style=for-the-badge&logo=yolo&logoColor=white) |
 | | Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
 | | Scientific Computing | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
 | **Quantum Computing** | — | ![Cirq](https://img.shields.io/badge/cirq-%23150458.svg?style=for-the-badge&logo=cirq&logoColor=white) |
