@@ -19,7 +19,7 @@
   - Experience 📈:
     - 1.2 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
     - 2 months of hands-on delta robot design practice in MuJoCo environments;
-    - More than 120 lab's and pet-projects on Java, Python, Haskell and C++ solved.
+    - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
   - Interests 🤓:
     - Math in CS;
     - Music (Neue Deutsche Härte);
@@ -61,6 +61,8 @@
 | **Message Brokers** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> RabbitMQ |
 | **DevOps & Hosting** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/> Firebase <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/> Render |
 | **CI/CD** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/> Jenkins |
+| **Documentation** | Documentation & Reports | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="20"/> LaTeX <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" height="20"/> Markdown <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typst.svg" height="20"/> Typst |
+| | Presentations | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="20"/> LaTeX (Beamer) |
 
 </div>
 
