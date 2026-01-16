@@ -1,3 +1,5 @@
+<div align="center">
+
 ```
  _______________________________________________
 /\                                              \
@@ -8,6 +10,9 @@
   |   __________________________________________|_
   \_/____________________________________________/
 ```
+
+</div>
+
 <h1 align="center">About me</h1>
 
   - Education 📚:
@@ -24,70 +29,45 @@
     - Programming.
    - **I LOVE HASKELL BTW!**
 
+<h1 align="center">Significant projects</h1>
+
+- [SPbSTU](https://github.com/MathematicLove/spbstu-iccs-mcs)
+- [EncryptIT](https://github.com/MathematicLove/encrypt-it)
+- [AyzeksSoud](https://github.com/MathematicLove/ayzeks-sound/tree/main)
+- [DemographicAnalysis](https://github.com/MathematicLove/demographic-regression-ru-jp)
+- [TripPlannerBot](https://github.com/MathematicLove/trip-planner-bot-spring)
+- [CardManagementService](https://github.com/MathematicLove/card-management-service)
+- [PhoneBook](https://github.com/MathematicLove/qt-phone-book)
+- [ParallelImageEncryption](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
+
 <h1 align="center">Knowledge</h1>
 
-## Programming languages: 
-- Multi
-  - C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> 
-  - Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/>
-  
-- Object-Oriented
-  - Java <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/>
-  
-- Pure functional
-  - Haskell <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> 
+<div align="center">
 
-## Data Science and Machine Learning Libraries (Python) 
-- **Data Manipulation**
-  - ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  
-- **Data Visualization**
-  - ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-  - ![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=seaborn&logoColor=white)
-- **Deep Learning**
-  - ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-- **Machine Learning**
-  - ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-- **Scientific Computing**
-  - ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+| Category | Subcategory / Name | Technologies / Libraries |
+| :--- | :--- | :--- |
+| **Programming Languages** | Multi-paradigm | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python |
+| | Object-Oriented (primarily)| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java |
+| | Functional | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> Haskell |
+| **Data Science & ML (Python)** | Data Manipulation | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
+| | Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=seaborn&logoColor=white) |
+| | Deep Learning | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) |
+| | Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+| | Scientific Computing | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) |
+| **Quantum Computing** | — | ![Cirq](https://img.shields.io/badge/cirq-%23150458.svg?style=for-the-badge&logo=cirq&logoColor=white) |
+| **Frameworks** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20"/> Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/> Spring / Boot |
+| **Databases** | NoSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB |
+| | SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> PostgreSQL |
+| **Mathematics** | — | <span style="color:#3498db">• Discrete Math</span><br><span style="color:#2ecc71">• Graph Theory</span><br><span style="color:#e74c3c">• Linear Algebra</span><br><span style="color:#f39c12">• Mathematical Analysis</span><br><span style="color:#9b59b6">• Statistics & Probability</span><br><span style="color:#1abc9c">• Optimization Methods</span><br><span style="color:#e67e22">• Quantum Computing</span> |
+| **Message Brokers** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> RabbitMQ |
+| **DevOps & Hosting** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/> Firebase <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/> Render |
+| **CI/CD** | — | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/> Jenkins |
 
-## Quantum computing:
-  - ![Cirq](https://img.shields.io/badge/cirq-%23150458.svg?style=for-the-badge&logo=cirq&logoColor=white)  
-
-## Frameworks: 
- - Django <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="20"/>
- - Spring framework + spring boot <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/>
-
-## Data bases: 
-  - NoSQL
-    - MongoDB <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/>
-  - SQL
-    - MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> 
-    - PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> 
-
-## Math:
-  - Category theory (base);
-  - Discrete math;
-  - Graph theory;
-  - Linear algebra;
-  - Mathematical analysis;
-  - Math. statistics;
-  - Optimization methods;
-  - Quantum computing;
-  - Theory of probability.
-
-## Message brokers:
-  - RabbitMQ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> 
-
-## Base of DevOps and hosting:
-  - Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> 
-  - Firebase <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/>
-  - k8s <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/>
-  - Render <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/>
-
-## Base of CI/CD:
-  - Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-plain.svg" height="20"/>
+</div>
 
 <h2 align="center">Styles</h2>
+
+<div align="center">
 
 | Type | Style | Examples |
 |------|-------|----------|
@@ -97,3 +77,4 @@
 | Important images | UPPERCASE | `DFA.png` |
 | .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models` |
 
+</div>
