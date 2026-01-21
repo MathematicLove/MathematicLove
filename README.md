@@ -17,7 +17,7 @@
     - School 🏫: School №53, with a mathematics bias; 
     - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
   - Experience 📈:
-    - 1.2 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
+    - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
     - 2 months of hands-on delta robot design practice in MuJoCo environments;
     - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
   - Interests 🤓:
