@@ -29,16 +29,16 @@
 
 <h1 align="center">Significant projects</h1>
 
-- [SPbSTU](https://github.com/MathematicLove/spbstu-iccs-mcs)
-- [EncryptIT](https://github.com/MathematicLove/encrypt-it)
-- [QuotesWebApp](https://github.com/MathematicLove/quotes-web-app)
-- [AyzeksSoud](https://github.com/MathematicLove/ayzeks-sound/tree/main)
-- [DemographicAnalysis](https://github.com/MathematicLove/demographic-regression-ru-jp)
-- [RegressionGasExportImpact](https://github.com/MathematicLove/regression-gas-export-impact)
-- [TripPlannerBot](https://github.com/MathematicLove/trip-planner-bot-spring)
-- [CardManagementService](https://github.com/MathematicLove/card-management-service)
-- [PhoneBook](https://github.com/MathematicLove/qt-phone-book)
-- [ParallelImageEncryption](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
+- [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
+- [**EncryptIT** *(Web app)*](https://github.com/MathematicLove/encrypt-it)
+- [**QuotesWebApp** *(Web app)*](https://github.com/MathematicLove/quotes-web-app)
+- [**RegressionGasExportImpact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
+- [**DemographicAnalysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
+- [**CardManagementService** *(Software)*](https://github.com/MathematicLove/card-management-service)
+- [**PhoneBook** *(Software)*](https://github.com/MathematicLove/qt-phone-book)
+- [**ParallelImageEncryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
+- [**TripPlannerBot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
+- [**AyzeksSoud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
 
 <h1 align="center">Knowledge</h1>
 
