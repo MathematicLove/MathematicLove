@@ -30,8 +30,8 @@
 <h1 align="center">Significant projects</h1>
 
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
-- [**EncryptIT** *(Web app)*](https://github.com/MathematicLove/encrypt-it)
-- [**QuotesWebApp** *(Web app)*](https://github.com/MathematicLove/quotes-web-app)
+- [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
+- [**QuotesWebApp** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
 - [**RegressionGasExportImpact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
 - [**DemographicAnalysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
 - [**CardManagementService** *(Software)*](https://github.com/MathematicLove/card-management-service)
