@@ -34,7 +34,7 @@
 - [QuotesWebApp](https://github.com/MathematicLove/quotes-web-app)
 - [AyzeksSoud](https://github.com/MathematicLove/ayzeks-sound/tree/main)
 - [DemographicAnalysis](https://github.com/MathematicLove/demographic-regression-ru-jp)
-- [PriceForecastingAnalysis](https://github.com/MathematicLove/price-forecasting-analysis)
+- [RegressionGasExportImpact](https://github.com/MathematicLove/regression-gas-export-impact)
 - [TripPlannerBot](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [CardManagementService](https://github.com/MathematicLove/card-management-service)
 - [PhoneBook](https://github.com/MathematicLove/qt-phone-book)
