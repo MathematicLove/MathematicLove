@@ -13,14 +13,14 @@
 
 <h1 align="center">About me</h1>
 
-  - Education 📚:
-    - School 🏫: School №53, with a mathematics bias; 
-    - Bachelor 🎓: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
-  - Experience 📈:
+  - Education:
+    - School: School №53, with a mathematics bias; 
+    - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
+  - Experience:
     - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
     - 2 months of hands-on delta robot design practice in MuJoCo environments;
     - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
-  - Interests 🤓:
+  - Interests:
     - Math in CS;
     - Music (Neue Deutsche Härte);
     - Philosophy;
@@ -76,7 +76,7 @@
 | Repositories, directories, .pdf files | kebab-case | `genetic-algorithms`, `report-lab-1.pdf` |
 | Java application directories, reports (in root directory) | lowercase | `projects/encryptit`, `report.pdf` |
 | Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
-| Important images | UPPERCASE | `DFA.png` |
-| .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models` |
+| Important images | UPPERCASE | `MASK_PR.png` |
+| .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models/` |
 
 </div>
