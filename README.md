@@ -16,7 +16,7 @@
     - Programming.
    - **I LOVE HASKELL BTW!**
 
-<h2 align="center">Significant projects</h2>
+<h2 align="center">Significant projects & articles</h2>
 
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
@@ -28,11 +28,8 @@
 - [**ParallelImageEncryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**TripPlannerBot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**AyzeksSoud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
-
-<h2 align="center">Articles</h2>
-
-- [**Computer vision for offside detection in football**](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-computer-vision-for-offside-detection-in-football.pdf)
-- [**Identification of the RoI of tram-tracks based on their segmentation**](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-identification-of-the-roi-of-tram-tracks-based-on-their-segmentation.pdf)
+- [**Computer vision for offside detection in football** *(Article)*](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-computer-vision-for-offside-detection-in-football.pdf)
+- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-identification-of-the-roi-of-tram-tracks-based-on-their-segmentation.pdf)
 
 <h2 align="center">Knowledge</h2>
 
