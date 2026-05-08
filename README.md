@@ -19,6 +19,7 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
+- [**QtMNISTRecognizer** *ML and AI*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
 - [**QuotesWebApp** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
 - [**RegressionGasExportImpact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
@@ -28,7 +29,6 @@
 - [**ParallelImageEncryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**TripPlannerBot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**AyzeksSoud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
-- [**QtMNISTRecognizer** *ML and AI*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
 - [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-identification-of-the-roi-of-tram-tracks-based-on-their-segmentation.pdf)
 
