@@ -1,20 +1,18 @@
-
-
 <h2 align="center">About me</h2>
 
-  - Education:
-    - School: School №53, with a mathematics bias; 
-    - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
-  - Experience:
-    - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
-    - 2 months of hands-on delta robot design practice in MuJoCo environments;
-    - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
-  - Interests:
-    - Math in CS;
-    - Music (Neue Deutsche Härte);
-    - Philosophy;
-    - Programming.
-   - **I LOVE HASKELL BTW!**
+- Education:
+  - School: School №53, with a mathematics bias; 
+  - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
+- Experience:
+  - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
+  - 2 months of hands-on delta robot design practice in MuJoCo environments;
+  - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
+- Interests:
+  - Math in CS;
+  - Music (Neue Deutsche Härte);
+  - Philosophy;
+  - Programming.
+- **I LOVE HASKELL BTW!**
 
 <h2 align="center">Significant projects & articles</h2>
 
@@ -58,10 +56,39 @@
 | | Presentations | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> LaTeX (Beamer) |
 </div>
 
+<h2 align="center">Diplomas and Certificates</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/spbstu-science-week.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/spbstu-science-week.jpg" alt="SPbSTU Best Article" width="125">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" alt="Competitive Programming Diploma" width="125">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/certificate-ijevsk.jpeg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/certificate-ijevsk.jpeg" alt="Izhevsk Certificate" width="125">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-uc.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-uc.jpg" alt="Universal Competitions" width="125">
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 <h2 align="center">Styles</h2>
 
 <div align="center">
-
+  
 | Type | Style | Examples |
 |------|-------|----------|
 | Repositories, directories, .pdf files | kebab-case | `genetic-algorithms`, `report-lab-1.pdf` |
@@ -69,5 +96,4 @@
 | Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
 | Important images | UPPERCASE | `MASK_PR.png` |
 | .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models/` |
-
 </div>
