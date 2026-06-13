@@ -28,7 +28,7 @@
 - [**TripPlannerBot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**AyzeksSoud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
 - [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
-- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://github.com/MathematicLove/spbstu-iccs-mcs/tree/main/articles/salimli-identification-of-the-roi-of-tram-tracks-based-on-their-segmentation.pdf)
+- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
 
 <h2 align="center">Knowledge</h2>
 
