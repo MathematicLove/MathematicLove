@@ -17,8 +17,8 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
-- [**Object detection on Dynamic RoI based on Segmentation with tracking** *ML and AI*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
-- [**QtMNISTRecognizer** *ML and AI*](https://github.com/MathematicLove/qt-mnist-recognizer)
+- [**Object detection on Dynamic RoI based on Segmentation with tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
+- [**QtMNISTRecognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
 - [**QuotesWebApp** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
 - [**RegressionGasExportImpact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
