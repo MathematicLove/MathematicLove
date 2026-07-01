@@ -2,7 +2,8 @@
 
 - Education:
   - School: School №53, with a mathematics bias; 
-  - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies.
+  - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies;
+  - Master's degree (preliminary enrollment): SPbSTU, ICCS. Mathematics and Computer Science, Machine Learning and Artificial Intelligence.
 - Experience:
   - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
@@ -17,19 +18,19 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
-- [**Object detection on Dynamic RoI based on Segmentation with tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
-- [**QtMNISTRecognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
+- [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
+- [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**Fashion-MNIST Classification (TinyVGG)** *(ML and AI)*](https://github.com/MathematicLove/fashion-mnist/blob/main/fashion_mnist.ipynb)
-- [**SarcasmicTextClassificationWithTransformers** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
+- [**Sarcasmic Text Classification with Transformer based NN** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
-- [**QuotesWebApp** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
-- [**RegressionGasExportImpact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
-- [**DemographicAnalysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
-- [**CardManagementService** *(Software)*](https://github.com/MathematicLove/card-management-service)
-- [**PhoneBook** *(Software)*](https://github.com/MathematicLove/qt-phone-book)
-- [**ParallelImageEncryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
-- [**TripPlannerBot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
-- [**AyzeksSoud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
+- [**Quotes Web-App** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
+- [**Regression Gas Export Impact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
+- [**Demographic Analysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
+- [**Card Management Service** *(Software)*](https://github.com/MathematicLove/card-management-service)
+- [**Phone Book** *(Software)*](https://github.com/MathematicLove/qt-phone-book)
+- [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
+- [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
+- [**Ayzeks Soud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
 - [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
 - [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
 
