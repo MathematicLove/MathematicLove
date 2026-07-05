@@ -8,6 +8,8 @@
   - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
   - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
+- Site (CV):
+  - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv/)
 - Interests:
   - Math in CS;
   - Music (Neue Deutsche Härte);
@@ -101,3 +103,5 @@
 | Important images | UPPERCASE | `MASK_PR.png` |
 | .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models/` |
 </div>
+
+### [Check my site also](https://mathematiclove.github.io/my-cv/)
