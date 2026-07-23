@@ -8,19 +8,20 @@
   - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
   - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
-- Site (CV):
-  - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv/)
 - Interests:
   - Math in CS;
   - Music (Neue Deutsche Härte);
   - Philosophy;
   - Programming.
 - **I LOVE HASKELL BTW!**
+- **Site (Portfolio)**:
+  - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv/)
 
 <h2 align="center">Significant projects & articles</h2>
 
-- [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
+- [**Visual Fashion Recommendation System** *(ML and AI)*](https://github.com/MathematicLove/fashion-recommendation)
+- [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**Fashion-MNIST Classification (TinyVGG)** *(ML and AI)*](https://github.com/MathematicLove/fashion-mnist/blob/main/fashion_mnist.ipynb)
 - [**Sarcasmic Text Classification with Transformer based NN** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
