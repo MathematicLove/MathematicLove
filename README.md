@@ -37,7 +37,7 @@
 - [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
 - [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
 
-<h2 align="center">Knowledge</h2>
+<h2 align="center">Skills</h2>
 
 <div align="center">
   
