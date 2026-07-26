@@ -20,7 +20,8 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
-- [**Hand-Tracking Drawing** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
+- [**Hand-Tracking Drawing (with 3D)** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
+- [**Pose Driven 3D Characters**](https://github.com/MathematicLove/pose-driven-3d-characters)
 - [**Visual Fashion Recommendation System** *(ML and AI)*](https://github.com/MathematicLove/fashion-recommendation)
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
