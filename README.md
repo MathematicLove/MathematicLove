@@ -15,7 +15,7 @@
   - Programming.
 - **I LOVE HASKELL BTW!**
 - **SITE (Portfolio)**:
-  - [mathematiclove.github.io](https://mathematiclove.github.io)
+  - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv)
 
 <h2 align="center">Significant projects & articles</h2>
 
