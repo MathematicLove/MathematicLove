@@ -21,6 +21,7 @@
 
 - [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
 - [**Hand-Tracking Drawing (with 3D)** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
+- [**ASL, RSL sign languages to text (and text to ASL, RSL animation)** *(ML and AI)*](https://github.com/MathematicLove/sign-language-to-text)
 - [**Pose Driven 3D Characters** *(ML and AI)*](https://github.com/MathematicLove/pose-driven-3d-characters)
 - [**Visual Fashion Recommendation System** *(ML and AI)*](https://github.com/MathematicLove/fashion-recommendation)
 - [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
