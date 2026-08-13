@@ -28,6 +28,8 @@
 - [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**Fashion-MNIST Classification (TinyVGG)** *(ML and AI)*](https://github.com/MathematicLove/fashion-mnist/blob/main/fashion_mnist.ipynb)
 - [**Sarcasmic Text Classification with Transformer based NN** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
+- [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
+- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
 - [**SPbSTU** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
 - [**Quotes Web-App** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
@@ -36,8 +38,6 @@
 - [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**Ayzeks Soud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
-- [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
-- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
 
 <h2 align="center">Skills</h2>
 
