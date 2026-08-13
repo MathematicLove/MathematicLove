@@ -20,6 +20,7 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
+- [**Real time Censorship API (for online meetings)** *(ML and AI)*](https://github.com/MathematicLove/real-time-censorship/settings/secrets/actions)
 - [**Hand-Tracking Drawing (with 3D)** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
 - [**ASL, RSL sign languages to text (and text to ASL, RSL animation)** *(ML and AI)*](https://github.com/MathematicLove/sign-language-to-text)
 - [**Pose Driven 3D Characters** *(ML and AI)*](https://github.com/MathematicLove/pose-driven-3d-characters)
@@ -32,8 +33,6 @@
 - [**Quotes Web-App** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
 - [**Regression Gas Export Impact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
 - [**Demographic Analysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
-- [**Card Management Service** *(Software)*](https://github.com/MathematicLove/card-management-service)
-- [**Phone Book** *(Software)*](https://github.com/MathematicLove/qt-phone-book)
 - [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**Ayzeks Soud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
