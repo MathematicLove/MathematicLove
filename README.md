@@ -20,7 +20,7 @@
 <h2 align="center">Significant projects & articles</h2>
 
 - [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
-- [**Real time Censorship API (for online meetings)** *(ML and AI)*](https://github.com/MathematicLove/real-time-censorship/settings/secrets/actions)
+- [**Real time Censorship API (for online meetings)** *(ML and AI)*](https://github.com/MathematicLove/real-time-censorship)
 - [**Hand-Tracking Drawing (with 3D)** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
 - [**ASL, RSL sign languages to text (and text to ASL, RSL animation)** *(ML and AI)*](https://github.com/MathematicLove/sign-language-to-text)
 - [**Pose Driven 3D Characters** *(ML and AI)*](https://github.com/MathematicLove/pose-driven-3d-characters)
