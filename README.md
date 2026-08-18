@@ -37,7 +37,7 @@
 - [**Demographic Analysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
 - [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
-- [**Ayzeks Soud** *(iOS software)*](https://github.com/MathematicLove/ayzeks-sound/tree/main)
+- [**AyzekSouds** *(iOS software)*](https://github.com/MathematicLove/ayzek-sounds/tree/main)
 
 <h2 align="center">Skills</h2>
 
