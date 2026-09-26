@@ -3,9 +3,9 @@
 - **Education**:
   - School: School №53, with a mathematics bias; 
   - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies;
-  - Master's degree (preliminary enrollment): SPbSTU, ICCS. Mathematics and Computer Science, Machine Learning and Artificial Intelligence.
+  - Master's degree: SPbSTU, ICCS, Math and computer Science, Machine Learning and artificial intelligence.
 - **Experience**:
-  - 1.5 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
+  - 1.6 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
   - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
 - Interests:
@@ -14,7 +14,7 @@
   - Philosophy;
   - Programming.
 - **I LOVE HASKELL BTW!**
-- **SITE (Portfolio)**:
+- **Website (CV)**:
   - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv)
 
 <h2 align="center">Significant projects & articles</h2>
