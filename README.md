@@ -25,17 +25,17 @@
 - [**ASL, RSL sign languages to text (and text to ASL, RSL animation)** *(ML and AI)*](https://github.com/MathematicLove/sign-language-to-text)
 - [**Pose Driven 3D Characters** *(ML and AI)*](https://github.com/MathematicLove/pose-driven-3d-characters)
 - [**Visual Fashion Recommendation System** *(ML and AI)*](https://github.com/MathematicLove/fashion-recommendation)
-- [**Qt MNIST Recognizer** *(ML and AI)*](https://github.com/MathematicLove/qt-mnist-recognizer)
 - [**Fashion-MNIST Classification (TinyVGG)** *(ML and AI)*](https://github.com/MathematicLove/fashion-mnist/blob/main/fashion_mnist.ipynb)
 - [**Sarcasmic Text Classification with Transformer based NN** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
 - [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
 - [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
+- [**Improving the SegFormer decoder for semantic segmentation by adding a depthwise convolution block** (p.52-58) *(Article)*](https://naukaip.ru/wp-content/uploads/2026/10/MK-2794.pdf)
+- [**Regression Gas Export Impact** *(Statistics)*](https://github.com/MathematicLove/regression-gas-export-impact)
+- [**Demographic Analysis** *(Statistics)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
 - [**SPbSTU (magistracy)** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy)
 - [**SPbSTU (bachelor)** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
 - [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
 - [**Quotes Web-App** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
-- [**Regression Gas Export Impact** *(Review)*](https://github.com/MathematicLove/regression-gas-export-impact)
-- [**Demographic Analysis** *(Review)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
 - [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
 - [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
 - [**AyzekSouds** *(iOS software)*](https://github.com/MathematicLove/ayzek-sounds/tree/main)
@@ -75,6 +75,16 @@
     <td align="center" style="padding: 10px;">
       <a href="https://mathematiclove.github.io/my-cv/certificates/spbstu-science-week.jpg" target="_blank">
         <img src="https://mathematiclove.github.io/my-cv/certificates/spbstu-science-week.jpg" alt="SPbSTU Best Article" width="125">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-segformer.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-segformer.jpg" alt="Technical Science Best Paper" width="125">
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-certificate-segformer-cp.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-certificate-segformer-cp.jpg" alt="Technical Science Certificate Paper" width="125">
       </a>
     </td>
     <td align="center" style="padding: 10px;">
