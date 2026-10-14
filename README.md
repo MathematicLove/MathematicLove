@@ -1,71 +1,99 @@
 <h2 align="center">About me</h2>
 
 - **Education**:
-  - School: School №53, with a mathematics bias; 
   - Bachelor: SPbSTU, ICCS, Math and computer science, AI systems and supercomputer technologies;
   - Master's degree: SPbSTU, ICCS, Math and computer Science, Machine Learning and artificial intelligence.
 - **Experience**:
   - 1.6 years of hands-on experience in building and integrating AI systems at TheBloomsBridge, including RAG architectures, Large Language Models (LLMs), YOLOv8 for object detection, and backend development;
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
   - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
-- Interests:
-  - Math in CS;
-  - Music (Neue Deutsche Härte);
-  - Philosophy;
-  - Programming.
 - **I LOVE HASKELL BTW!**
 - **Website (CV)**:
   - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv)
 
-<h2 align="center">Significant projects & articles</h2>
-
-- [**Object Detection on Dynamic RoI Based on Segmentation with Tracking** *(ML and AI)*](https://github.com/MathematicLove/tram-dynamic-roi-tracker)
-- [**Real time Censorship API (for online meetings)** *(ML and AI)*](https://github.com/MathematicLove/real-time-censorship)
-- [**Hand-Tracking Drawing (with 3D)** *(ML and AI)*](https://github.com/MathematicLove/hand-tracking-drawing)
-- [**ASL, RSL sign languages to text (and text to ASL, RSL animation)** *(ML and AI)*](https://github.com/MathematicLove/sign-language-to-text)
-- [**Pose Driven 3D Characters** *(ML and AI)*](https://github.com/MathematicLove/pose-driven-3d-characters)
-- [**Visual Fashion Recommendation System** *(ML and AI)*](https://github.com/MathematicLove/fashion-recommendation)
-- [**Fashion-MNIST Classification (TinyVGG)** *(ML and AI)*](https://github.com/MathematicLove/fashion-mnist/blob/main/fashion_mnist.ipynb)
-- [**Sarcasmic Text Classification with Transformer based NN** *(ML and AI)*](https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb)
-- [**Computer vision for offside detection in football** *(Article)*](https://www.elibrary.ru/item.asp?id=80243926)
-- [**Identification of the RoI of tram-tracks based on their segmentation** *(Article)*](https://www.elibrary.ru/qfcwed)
-- [**Improving the SegFormer decoder for semantic segmentation by adding a depthwise convolution block** (p.52-58) *(Article)*](https://naukaip.ru/wp-content/uploads/2026/10/MK-2794.pdf)
-- [**Regression Gas Export Impact** *(Statistics)*](https://github.com/MathematicLove/regression-gas-export-impact)
-- [**Demographic Analysis** *(Statistics)*](https://github.com/MathematicLove/demographic-regression-ru-jp)
-- [**SPbSTU (magistracy)** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy)
-- [**SPbSTU (bachelor)** *(Educational collection)*](https://github.com/MathematicLove/spbstu-iccs-mcs)
-- [**EncryptIT** *(Spring Web app)*](https://github.com/MathematicLove/encrypt-it)
-- [**Quotes Web-App** *(Django Web app)*](https://github.com/MathematicLove/quotes-web-app)
-- [**Parallel Image Encryption** *(Software)*](https://github.com/MathematicLove/fano-encode-openmpi-openmp)
-- [**Trip Planner Bot** *(Software)*](https://github.com/MathematicLove/trip-planner-bot-spring)
-- [**AyzekSouds** *(iOS software)*](https://github.com/MathematicLove/ayzek-sounds/tree/main)
-
 <h2 align="center">Skills</h2>
 
 <div align="center">
-  
-| Category | Type | Technologies / Libraries |
-| :-- | :-- | :-- |
-| **Programming Languages** | Multi-paradigm | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="20"/> C++ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="20"/> Python |
-| | Object-Oriented (primarily) | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="20"/> Java |
-| | Functional | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="20"/> Haskell |
-| **Data science, ML, Computer vision (Python)** | Data Manipulation | ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) |
-| | Data Visualization | ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Seaborn](https://img.shields.io/badge/Seaborn-%23007396.svg?style=for-the-badge&logo=seaborn&logoColor=white) |
-| | Deep Learning (Frameworks) | ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg" height="45" alt="TensorFlow"/> ![YOLO](https://img.shields.io/badge/Ultralytics-%2300FF00.svg?style=for-the-badge&logo=Ultralytics&logoColor=white) |
-| | Machine Learning | ![Scikit-Learn](https://img.shields.io/badge/scikit-learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| | Scientific Computing | ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![StatsModels](https://img.shields.io/badge/StatsModels-%23593786.svg?style=for-the-badge&logo=python&logoColor=white) |
-| | Computer Vision | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="20"/> OpenCV |
-| **Quantum Computing** | - | ![Cirq](https://img.shields.io/badge/cirq-%23150458.svg?style=for-the-badge&logo=cirq&logoColor=white) |
-| **Frameworks** | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="20"/> FastAPI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="20"/> Spring (base) |
-| **Databases (DBMS)** | NoSQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="20"/> MongoDB |
-| | SQL | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="20"/> MySQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="20"/> PostgreSQL |
-| **Mathematics** | - | <span style="color:#3498db">• Discrete Math</span><br><span style="color:#2ecc71">• Graph Theory</span><br><span style="color:#e74c3c">• Linear Algebra</span><br><span style="color:#f39c12">• Calculus</span><br><span style="color:#9b59b6">• Mathematical Statistics & Probability Theory</span><br><span style="color:#16a085">• Statistical Learning</span><br><span style="color:#1abc9c">• Optimization Methods</span><br><span style="color:#e67e22">• Quantum Computing</span> |
-| **Message Brokers** | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" height="20"/> RabbitMQ |
-| **Containerization & Hosting** | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="20"/> Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="20"/> Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="20"/> Firebase <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/render.svg" height="20"/> Render |
-| **CI/CD & Cloud** | - | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="20"/> Jenkins <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="20"/> Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="20"/> Ansible <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openstack/openstack-original.svg" height="20"/> OpenStack Heat <img src="https://cdn.simpleicons.org/yandexcloud" height="20"/> YC |
-| **Documentation** | Documentation & Reports | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> LaTeX <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="20"/> Markdown <img src="https://cdn.jsdelivr.net/npm/simple-icons@v15/icons/typst.svg" height="20"/> Typst |
-| | Presentations | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="20"/> LaTeX (Beamer) |
-
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data Science, ML &amp; CV</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=ultralytics&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PIL-306998?style=flat-square&logo=python&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Visualization</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=seaborn&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>BI &amp; Analytics</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Scientific</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/StatsModels-593786?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cirq-4285F4?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend &amp; DBMS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Cloud</b> <sub>(base)</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OpenStack%20Heat-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat-square&logo=yandexcloud&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Documentation</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Mathematics</b></td>
+    <td>Statistical Learning / Optimization / Linear Algebra / Calculus / Probability &amp; Statistics / Graph Theory / Discrete Math / Quantum Computing</td>
+  </tr>
+</table>
+</div>
 
 <h2 align="center">Diplomas and Certificates</h2>
 
@@ -106,17 +134,133 @@
 </table>
 </div>
 
-<h2 align="center">Styles</h2>
+<h2 align="center">Projects</h2>
 
 <div align="center">
-  
-| Type | Style | Examples |
-|---|----|-----|
-| Repositories, directories, .pdf files | kebab-case | `genetic-algorithms`, `report-lab-1.pdf` |
-| Java application directories, reports (in root directory) | lowercase | `projects/encryptit`, `report.pdf` |
-| Java classes, .hs (Haskell) files, some .cpp (C++) files | UpperCamelCase | `ApplicationController.java`, `DataTypes.hs` |
-| Important images | UPPERCASE | `MASK_PR.png` |
-| .py (Python) files, .ipynb (jupyter notebook), .cpp (C++) files, some reports, DB migrations, maybe some directories | snake_case | `data_prepare.py`,`quantum_algorithms.ipynb`, `001_init_schema.sql`, `best_models/` |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MathematicLove/tram-dynamic-roi-tracker"><b>Dynamic RoI Detection with Tracking</b></a><br>
+      <sub>Object detection inside a dynamic RoI built from tram track segmentation</sub><br>
+      <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Scientific%20Research-34495E?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/MathematicLove/real-time-censorship"><b>Real-time Censorship API</b></a><br>
+      <sub>Real-time content filtering for online meetings</sub><br>
+      <img src="https://img.shields.io/badge/ML%20Service-009688?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/fashion-recommendation"><b>Visual Fashion Recommendation</b></a><br>
+      <sub>Recommends clothing items by visual similarity</sub><br>
+      <img src="https://img.shields.io/badge/RecSys-E67E22?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/aofitasotr/bpmn-architect"><b>Text-to-BPMN</b></a><br>
+      <sub>Generates BPMN diagrams from natural language descriptions</sub><br>
+      <img src="https://img.shields.io/badge/LLM-191970?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/heart-disease"><b>Heart Disease Classification</b></a><br>
+      <sub>Heart disease prediction on tabular clinical data</sub><br>
+      <img src="https://img.shields.io/badge/Classical%20ML-F7931E?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/sign-language-to-text"><b>Sign Language to Text</b></a><br>
+      <sub>ASL and RSL to text, and text back to sign animation</sub><br>
+      <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/pose-driven-3d-characters"><b>Pose-Driven 3D Characters</b></a><br>
+      <sub>Animates 3D characters from human pose</sub><br>
+      <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/hand-tracking-drawing"><b>Hand-Tracking Drawing</b></a><br>
+      <sub>Drawing in the air with hand tracking, including 3D</sub><br>
+      <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/sarcasmic-text-classification/blob/main/sarcasm_text_classification.ipynb"><b>Sarcasm Detection</b></a><br>
+      <sub>Sarcasm classification with a transformer-based network</sub><br>
+      <img src="https://img.shields.io/badge/NLP-8E44AD?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/demographic-regression-ru-jp"><b>Demographic Analysis</b></a><br>
+      <sub>Regression analysis of demographic data for Russia and Japan</sub><br>
+      <img src="https://img.shields.io/badge/Statistics-2E86C1?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/regression-gas-export-impact"><b>Gas Export Impact</b></a><br>
+      <sub>Regression analysis of the economic impact of gas exports</sub><br>
+      <img src="https://img.shields.io/badge/Statistics-2E86C1?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/fano-encode-openmpi-openmp"><b>Parallel Image Encryption</b></a><br>
+      <sub>Image encryption parallelized with OpenMP and MPI</sub><br>
+      <img src="https://img.shields.io/badge/HPC-555555?style=flat-square"/>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <a href="https://github.com/MathematicLove/encrypt-it"><b>EncryptIT</b></a><br>
+      <sub>Encryption web application built with Spring</sub><br>
+      <img src="https://img.shields.io/badge/Web%20App-6DB33F?style=flat-square"/>
+    </td>
+    <td valign="top">
+      <b>SPbSTU (<a href="https://github.com/MathematicLove/spbstu-iccs-mcs">Bachelor</a> and <a href="https://github.com/MathematicLove/spbstu-iccs-mcs-magistracy">Magistracy</a>)</b><br>
+      <sub>University coursework collections</sub><br>
+      <img src="https://img.shields.io/badge/Education-777777?style=flat-square"/>
+    </td>
+  </tr>
+  <!--
+  <tr>
+    <td width="50%" valign="top">
+      <a href="LINK"><b>TITLE</b></a><br>
+      <sub>DESCRIPTION</sub><br>
+      <img src="https://img.shields.io/badge/CATEGORY-COLOR?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <a href="LINK"><b>TITLE</b></a><br>
+      <sub>DESCRIPTION</sub><br>
+      <img src="https://img.shields.io/badge/CATEGORY-COLOR?style=flat-square"/>
+    </td>
+  </tr>
+  -->
+</table>
 </div>
 
-### [Check my site also](https://mathematiclove.github.io/my-cv/)
+<h2 align="center">Publications</h2>
+
+<div align="center">
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://www.elibrary.ru/qfcwed"><b>Identification of the RoI of Tram Tracks Based on Their Segmentation</b></a><br>
+      <img src="https://img.shields.io/badge/Article-555555?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://naukaip.ru/wp-content/uploads/2026/10/MK-2794.pdf"><b>Improving the SegFormer Decoder with a Depthwise Convolution Block</b></a><br>
+      <sub>pp. 52-58</sub><br>
+      <img src="https://img.shields.io/badge/Article-555555?style=flat-square"/>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://www.elibrary.ru/item.asp?id=80243926"><b>Computer Vision for Offside Detection in Football</b></a><br>
+      <img src="https://img.shields.io/badge/Article-555555?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+
+<h3 align="center"><a href="https://mathematiclove.github.io/my-cv/">Check my site also :)</a></h3>
