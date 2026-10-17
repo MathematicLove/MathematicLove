@@ -95,14 +95,6 @@
     </td>
   </tr>
   <tr>
-    <td><b>Documentation</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/LaTeX-008080?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Typst-239DAD?style=flat-square&logo=typst&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
     <td><b>Mathematics</b></td>
     <td>Statistical Learning, Optimization, Linear Algebra, Calculus, Probability &amp; Statistics, Graph Theory, Discrete Math, Quantum Computing</td>
   </tr>
