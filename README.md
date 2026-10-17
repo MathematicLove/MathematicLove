@@ -134,7 +134,7 @@
 </table>
 </div>
 
-<h2 align="center">Projects</h2>
+<!-- <h2 align="center">Projects</h2>
 
 <div align="center">
 <table>
@@ -237,10 +237,10 @@
     </td>
   </tr>
   -->
-</table>
-</div>
+<!-- </table>
+</div> -->
 
-<h2 align="center">Publications</h2>
+<!-- <h2 align="center">Publications</h2>
 
 <div align="center">
 <table>
@@ -260,7 +260,7 @@
     </td>
   </tr>
 </table>
-</div>
+</div> --> 
 
 
 <h3 align="center"><a href="https://mathematiclove.github.io/my-cv/">Check my site also :)</a></h3>
