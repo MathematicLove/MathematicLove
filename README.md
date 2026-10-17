@@ -36,6 +36,14 @@
     </td>
   </tr>
   <tr>
+    <td><b>MLOps</b> </td>
+    <td>
+      <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
     <td><b>Visualization</b></td>
     <td>
       <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
@@ -47,6 +55,7 @@
     <td><b>BI &amp; Analytics</b></td>
     <td>
       <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
       <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
     </td>
   </tr>
@@ -59,25 +68,30 @@
     </td>
   </tr>
   <tr>
-    <td><b>Backend &amp; DBMS</b></td>
+    <td><b>DBMS &amp; Message Brokers</b></td>
     <td>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>DevOps &amp; Cloud</b> <sub>(base)</sub></td>
+    <td><b>DevOps</b> <sub>(basics)</sub></td>
     <td>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
       <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b> <sub>(basics)</sub></td>
+    <td>
       <img src="https://img.shields.io/badge/OpenStack%20Heat-ED1944?style=flat-square&logo=openstack&logoColor=white"/>
       <img src="https://img.shields.io/badge/Yandex%20Cloud-5282FF?style=flat-square&logo=yandexcloud&logoColor=white"/>
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black"/>
     </td>
   </tr>
   <tr>
@@ -90,7 +104,7 @@
   </tr>
   <tr>
     <td><b>Mathematics</b></td>
-    <td>Statistical Learning / Optimization / Linear Algebra / Calculus / Probability &amp; Statistics / Graph Theory / Discrete Math / Quantum Computing</td>
+    <td>Statistical Learning, Optimization, Linear Algebra, Calculus, Probability &amp; Statistics, Graph Theory, Discrete Math, Quantum Computing</td>
   </tr>
 </table>
 </div>
