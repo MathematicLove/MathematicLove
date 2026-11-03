@@ -8,7 +8,7 @@
   - 2 months of hands-on delta robot design practice in MuJoCo environments;
   - More than 150 lab's and pet-projects on Java, Python, Haskell and C++ solved.
 - **I LOVE HASKELL BTW!**
-- **Website (CV)**:
+- **Website (Portfolio-CV)**:
   - [mathematiclove.github.io](https://mathematiclove.github.io/my-cv)
 
 <h2 align="center">Skills</h2>
