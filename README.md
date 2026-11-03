@@ -126,7 +126,7 @@
       </a>
     </td>
         <td align="center" style="padding: 10px;">
-      <a href="https://mathematiclove.github.io/my-cv/certificates/certificate-inter-rotate.jpg" target="_blank">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/certificate-inter-raoes.jpg" target="_blank">
         <img src="https://mathematiclove.github.io/my-cv/certificates/certificate-inter-rotate.jpg" alt="Certificate Hackathon" width="125">
       </a>
     </td>
