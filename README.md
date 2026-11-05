@@ -119,17 +119,17 @@
       <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-certificate-segformer-cp.jpg" target="_blank">
         <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-certificate-segformer-cp.jpg" alt="Technical Science Certificate Paper" width="125">
       </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" target="_blank">
-        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" alt="Competitive Programming Diploma" width="125">
-      </a>
-    </td>
+          </td>
         <td align="center" style="padding: 10px;">
       <a href="https://mathematiclove.github.io/my-cv/certificates/certificate-inter-raoes.jpg" target="_blank">
         <img src="https://mathematiclove.github.io/my-cv/certificates/certificate-inter-rotate.jpg" alt="Certificate Hackathon" width="125">
       </a>
     </td>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" target="_blank">
+        <img src="https://mathematiclove.github.io/my-cv/certificates/salimli-diploma-cp.jpg" alt="Competitive Programming Diploma" width="125">
+      </a>
     <td align="center" style="padding: 10px;">
       <a href="https://mathematiclove.github.io/my-cv/certificates/certificate-ijevsk.jpeg" target="_blank">
         <img src="https://mathematiclove.github.io/my-cv/certificates/certificate-ijevsk.jpeg" alt="Izhevsk Certificate" width="125">
